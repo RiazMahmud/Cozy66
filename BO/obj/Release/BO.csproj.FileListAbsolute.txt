@@ -1,0 +1,18 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\BO\bin\Release\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\BO\bin\Release\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\BO\bin\Release\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\BO\bin\Release\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\BO\bin\Release\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\BO\bin\Release\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\BO\obj\Release\BO.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\BO\obj\Release\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\BO\obj\Release\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\BO\bin\Release\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\BO\bin\Release\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\BO\bin\Release\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\BO\bin\Release\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\BO\bin\Release\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\BO\bin\Release\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\BO\obj\Release\BO.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\BO\obj\Release\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\BO\obj\Release\BO.pdb

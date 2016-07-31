@@ -1,0 +1,1037 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <PublishUrl>C:\Users\Riaz\Desktop\cozy66\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>\\psf\Home\Desktop\ATK_Final_Version\</InstallUrl>
+    <ProductName>ATK Management System</ProductName>
+    <PublisherName>Enigma Soft</PublisherName>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>7C10D90F89B469055C5821A8A94E51E1E93BB112</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ATK Computer LTD UI_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE6360A6-9A95-413A-B5C7-B84954436636}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ATK_Computer_LTD</RootNamespace>
+    <AssemblyName>ATK Computer LTD</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AccountingManagement.vshost">
+      <HintPath>..\..\AccountingManagement\AccountingManagement\bin\Debug\AccountingManagement.vshost.exe</HintPath>
+    </Reference>
+    <Reference Include="CalendarClock">
+      <HintPath>..\..\..\..\VS_Projects\SchoolManagementAdmin\SchoolManagementAdmin\bin\Debug\CalendarClock.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportAppServer.DataDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataSetConversion, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DigitalClock">
+      <HintPath>..\..\..\..\VS_Projects\SchoolManagementAdmin\SchoolManagementAdmin\bin\Debug\DigitalClock.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\SUPER_SHOP\SUPER_SHOP\bin\Debug\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\SUPER_SHOP\SUPER_SHOP\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\AccountingManagement\AccountingManagement\bin\Debug\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.PointOfService">
+      <HintPath>..\..\SUPER_SHOP\New folder\Microsoft.PointOfService.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VIBlend.WinForms.Controls, Version=10.1.0.0, Culture=neutral, PublicKeyToken=6feea38fef5ea0cf" />
+    <Reference Include="VIBlend.WinForms.DataGridView, Version=10.1.0.0, Culture=neutral, PublicKeyToken=84a1a092e92851e6, processorArchitecture=MSIL" />
+    <Reference Include="VIBlend.WinForms.Utilities, Version=10.1.0.0, Culture=neutral, PublicKeyToken=970a5af59bc48043" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutUs.Designer.cs">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cozzyRpt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cozzyRpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GeneralJournal.cs" />
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin.Designer.cs">
+      <DependentUpon>Home_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_Accounting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_Accounting.Designer.cs">
+      <DependentUpon>Home_Admin_Accounting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_BankForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_BankForm.Designer.cs">
+      <DependentUpon>Home_Admin_BankForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_BankStatement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_BankStatement.Designer.cs">
+      <DependentUpon>Home_Admin_BankStatement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_Bill.Designer.cs">
+      <DependentUpon>Home_Admin_Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_AddClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_AddClient.Designer.cs">
+      <DependentUpon>Home_Admin_AddClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_CreateReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_CreateReport.Designer.cs">
+      <DependentUpon>Home_Admin_CreateReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_Exchanged_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_Exchanged_Client.Designer.cs">
+      <DependentUpon>Home_Admin_Exchanged_Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_CreditHistoryBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_CreditHistoryBalance.Designer.cs">
+      <DependentUpon>Home_Admin_CreditHistoryBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_CustomSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_CustomSearch.Designer.cs">
+      <DependentUpon>Home_Admin_CustomSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_DayBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_DayBook.Designer.cs">
+      <DependentUpon>Home_Admin_DayBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_EntryNewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_EntryNewProduct.Designer.cs">
+      <DependentUpon>Home_Admin_EntryNewProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_GeneralJournaldisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_GeneralJournaldisplay.Designer.cs">
+      <DependentUpon>Home_Admin_GeneralJournaldisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_IncomeStatement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_IncomeStatement.Designer.cs">
+      <DependentUpon>Home_Admin_IncomeStatement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_ManageClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_ManageClient.Designer.cs">
+      <DependentUpon>Home_Admin_ManageClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_ManageProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_ManageProfile.Designer.cs">
+      <DependentUpon>Home_Admin_ManageProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_MemberMaintainance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_MemberMaintainance.Designer.cs">
+      <DependentUpon>Home_Admin_MemberMaintainance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_MemberSalaryAndAdvanceHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_MemberSalaryAndAdvanceHistory.Designer.cs">
+      <DependentUpon>Home_Admin_MemberSalaryAndAdvanceHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_NotesAndReminder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_NotesAndReminder.Designer.cs">
+      <DependentUpon>Home_Admin_NotesAndReminder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_OwnerExpenditure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_OwnerExpenditure.Designer.cs">
+      <DependentUpon>Home_Admin_OwnerExpenditure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_OwnerIncome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_OwnerIncome.Designer.cs">
+      <DependentUpon>Home_Admin_OwnerIncome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_PrintBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_PrintBill.Designer.cs">
+      <DependentUpon>Home_Admin_PrintBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_ReturnToImporter_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_ReturnToImporter_History.Designer.cs">
+      <DependentUpon>Home_Admin_ReturnToImporter_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_SalaryHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_SalaryHistory.Designer.cs">
+      <DependentUpon>Home_Admin_SalaryHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_SearchProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_SearchProduct.Designer.cs">
+      <DependentUpon>Home_Admin_SearchProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_SoldProductHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_SoldProductHistory.Designer.cs">
+      <DependentUpon>Home_Admin_SoldProductHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_TotalMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_TotalMember.Designer.cs">
+      <DependentUpon>Home_Admin_TotalMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Admin_UpdateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Admin_UpdateProduct.Designer.cs">
+      <DependentUpon>Home_Admin_UpdateProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutUs.resx">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cozzyRpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cozzyRpt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin.resx">
+      <DependentUpon>Home_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_Accounting.resx">
+      <DependentUpon>Home_Admin_Accounting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_BankForm.resx">
+      <DependentUpon>Home_Admin_BankForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_BankStatement.resx">
+      <DependentUpon>Home_Admin_BankStatement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_Bill.resx">
+      <DependentUpon>Home_Admin_Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_AddClient.resx">
+      <DependentUpon>Home_Admin_AddClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_CreateReport.resx">
+      <DependentUpon>Home_Admin_CreateReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_Exchanged_Client.resx">
+      <DependentUpon>Home_Admin_Exchanged_Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_CreditHistoryBalance.resx">
+      <DependentUpon>Home_Admin_CreditHistoryBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_CustomSearch.resx">
+      <DependentUpon>Home_Admin_CustomSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_DayBook.resx">
+      <DependentUpon>Home_Admin_DayBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_EntryNewProduct.resx">
+      <DependentUpon>Home_Admin_EntryNewProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_GeneralJournaldisplay.resx">
+      <DependentUpon>Home_Admin_GeneralJournaldisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_IncomeStatement.resx">
+      <DependentUpon>Home_Admin_IncomeStatement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_ManageClient.resx">
+      <DependentUpon>Home_Admin_ManageClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_ManageProfile.resx">
+      <DependentUpon>Home_Admin_ManageProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_MemberMaintainance.resx">
+      <DependentUpon>Home_Admin_MemberMaintainance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_MemberSalaryAndAdvanceHistory.resx">
+      <DependentUpon>Home_Admin_MemberSalaryAndAdvanceHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_NotesAndReminder.resx">
+      <DependentUpon>Home_Admin_NotesAndReminder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_OwnerExpenditure.resx">
+      <DependentUpon>Home_Admin_OwnerExpenditure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_OwnerIncome.resx">
+      <DependentUpon>Home_Admin_OwnerIncome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_PrintBill.resx">
+      <DependentUpon>Home_Admin_PrintBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_ReturnToImporter_History.resx">
+      <DependentUpon>Home_Admin_ReturnToImporter_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_SalaryHistory.resx">
+      <DependentUpon>Home_Admin_SalaryHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_SearchProduct.resx">
+      <DependentUpon>Home_Admin_SearchProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_SoldProductHistory.resx">
+      <DependentUpon>Home_Admin_SoldProductHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_TotalMember.resx">
+      <DependentUpon>Home_Admin_TotalMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Admin_UpdateProduct.resx">
+      <DependentUpon>Home_Admin_UpdateProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ATK Computer LTD UI_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BO\BO.csproj">
+      <Project>{0ee4cc81-b2ea-4ef6-ad43-1d1b74ad3a46}</Project>
+      <Name>BO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ENTITY\ENTITY.csproj">
+      <Project>{451e6987-0122-4672-81e1-d9711d538167}</Project>
+      <Name>ENTITY</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appbar.magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-to-cart-icon-300x240.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-03-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FAQ_ICONS_06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appbar.arrow.down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appbar.home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appbar.lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appbar.power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="SAP.CrystalReports14.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>SAP Crystal Reports Runtime Engine for .NET Framework</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appbar.people.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appbar.page.search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appbar.user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="CRVsPackageLib">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.CrystalReports.Design">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.CrystalReports.Engine">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Data.AdoDotNetInterop">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ClientDoc">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommLayer">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonControls">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Controllers">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CubeDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.DataSetConversion">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ObjectFactory">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Prompting">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ReportDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.XmlSerialize">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportSource">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Shared">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.VSDesigner">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Web">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Windows.Forms">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DAL">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DigitalClock">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="ENTITY">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="EnvDTE">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="EnvDTE80">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="FlashControlV71">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="log4net">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="MetroFramework">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="MetroFramework.Design">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.Data.Tools.Components">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.Data.Tools.Schema.Sql.UnitTesting">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.PointOfService">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="ShockwaveFlashObjects">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="stdole">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\r-symbol-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\income.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expenditure.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\n2f-travel-expenses-report-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconmoney.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earnings-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appbar.book.hardcover.open.writing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accounting-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guest Male Filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Page Overview 2-104.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paid Parking Filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Comments-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add File Filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View File Filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add File Filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit File Filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View File Filled-501.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GenLedg-Payroll-Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\totalUser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update_User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addUser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar.Event_.Reminder.CER_.v5.4.5.apk_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appbar.arrow.down1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-left-double.png" />
+    <None Include="Resources\arrow-right-double.png" />
+    <None Include="Resources\140317099543949_1411200881105.png" />
+    <None Include="Resources\Copy of รูปลูกศร.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign_up_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\advance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CozzyLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history_318-48462.png.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Order-history-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_FinancialReport.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exchange-265x300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exchange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accounting-1001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Library-104.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\News Filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appbar.notification.multiple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paid Parking Filled-1001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pie Chart-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refund-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Purchase Order Filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refund 2 Filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accounting-1002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pie Chart-1001.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SQLDBExtensionsRefPath)\Microsoft.Data.Tools.Schema.Sql.UnitTesting.targets" Condition="'$(SQLDBExtensionsRefPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.Sql.UnitTesting.targets" Condition="'$(SQLDBExtensionsRefPath)' == ''" />
+  <PropertyGroup>
+    <SsdtUnitTestVersion>2.0</SsdtUnitTestVersion>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,8 @@
+\\psf\home\documents\visual studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.config
+\\psf\home\documents\visual studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe
+\\psf\home\documents\visual studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.pdb
+\\psf\home\documents\visual studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe
+\\psf\home\documents\visual studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.pdb
+\\psf\home\documents\visual studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.csproj.GenerateResource.Cache

@@ -1,0 +1,381 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.manifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.application
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\CalendarClock.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\DigitalClock.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\MetroFramework.Design.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\MetroFramework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\Microsoft.PointOfService.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\CalendarClock.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\DigitalClock.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Debug\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_Bill.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_EntryNewProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageClient.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageProfile.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberMaintainance.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerExpenditure.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerIncome.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PrintBill.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ReturnToImporter_History.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SearchProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SoldProductHistory.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_TotalMember.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_UpdateProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe.manifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.application
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberSalaryAndAdvanceHistory.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_DayBook.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AboutUs.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AddNewUser.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PartyLedger.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.LedgerForm.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.UnpaidInvoiceForm.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_NotesAndReminder.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK Computer LTD.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.manifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\ATK Computer LTD.application
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\ATK Computer LTD.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\CalendarClock.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\DigitalClock.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\MetroFramework.Design.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\MetroFramework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\Microsoft.PointOfService.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\CalendarClock.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\DigitalClock.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Debug\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AboutUs.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AddNewUser.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_Bill.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_DayBook.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_EntryNewProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageClient.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageProfile.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberMaintainance.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberSalaryAndAdvanceHistory.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_NotesAndReminder.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerExpenditure.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerIncome.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PartyLedger.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PrintBill.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ReturnToImporter_History.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SearchProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SoldProductHistory.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_TotalMember.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_UpdateProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.LedgerForm.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.UnpaidInvoiceForm.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe.manifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Debug\ATK Computer LTD.application
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.config
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.pdb
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.manifest
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.application
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.pdb
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\bin\Debug\BO.dll
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\bin\Debug\DAL.dll
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\bin\Debug\BO.pdb
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\bin\Debug\DAL.pdb
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AboutUs.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AddNewUser.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_Bill.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_DayBook.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_EntryNewProduct.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageClient.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageProfile.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberMaintainance.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberSalaryAndAdvanceHistory.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_NotesAndReminder.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerExpenditure.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerIncome.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PartyLedger.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PrintBill.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ReturnToImporter_History.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SearchProduct.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SoldProductHistory.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_TotalMember.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_UpdateProduct.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.LedgerForm.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Properties.Resources.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.UnpaidInvoiceForm.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csproj.GenerateResource.Cache
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe.manifest
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.application
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CustomSearch.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CreditHistory.resources
+\\psf\Home\Documents\AppStick\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CreditHistoryBalance.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.config
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.pdb
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.manifest
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.application
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\ATK Computer LTD.pdb
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\BO.dll
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\ENTITY.dll
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\DAL.dll
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\BO.pdb
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\ENTITY.pdb
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\DAL.pdb
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csprojResolveAssemblyReference.cache
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AboutUs.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AddNewUser.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_Bill.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CreditHistory.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CreditHistoryBalance.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CustomSearch.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_DayBook.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_EntryNewProduct.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageClient.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageProfile.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberMaintainance.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberSalaryAndAdvanceHistory.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_NotesAndReminder.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerExpenditure.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerIncome.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PartyLedger.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PrintBill.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ReturnToImporter_History.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SearchProduct.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SoldProductHistory.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_TotalMember.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_UpdateProduct.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.LedgerForm.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Properties.Resources.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.UnpaidInvoiceForm.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csproj.GenerateResource.Cache
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe.manifest
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK Computer LTD.application
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_IncomeStatement.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SalaryHistory.resources
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\Database.mdf
+H:\AppStick_Project\ATK Computer LTD\ATK Computer LTD\bin\Debug\Database_log.ldf
+H:\AppStick_Project\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.config
+H:\AppStick_Project\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.manifest
+H:\AppStick_Project\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.application
+H:\AppStick_Project\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe
+H:\AppStick_Project\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.pdb
+H:\AppStick_Project\Cozy66\ATK Computer LTD\bin\Debug\BO.dll
+H:\AppStick_Project\Cozy66\ATK Computer LTD\bin\Debug\ENTITY.dll
+H:\AppStick_Project\Cozy66\ATK Computer LTD\bin\Debug\DAL.dll
+H:\AppStick_Project\Cozy66\ATK Computer LTD\bin\Debug\BO.pdb
+H:\AppStick_Project\Cozy66\ATK Computer LTD\bin\Debug\ENTITY.pdb
+H:\AppStick_Project\Cozy66\ATK Computer LTD\bin\Debug\DAL.pdb
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csprojResolveAssemblyReference.cache
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AboutUs.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AddNewUser.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_Bill.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_AddClient.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CreditHistory.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CreditHistoryBalance.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CustomSearch.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_DayBook.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_EntryNewProduct.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_IncomeStatement.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageClient.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageProfile.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberMaintainance.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberSalaryAndAdvanceHistory.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_NotesAndReminder.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerExpenditure.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerIncome.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PartyLedger.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PrintBill.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ReturnToImporter_History.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SalaryHistory.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SearchProduct.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SoldProductHistory.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_TotalMember.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_UpdateProduct.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.LedgerForm.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Properties.Resources.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.UnpaidInvoiceForm.resources
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csproj.GenerateResource.Cache
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe.manifest
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.application
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe
+H:\AppStick_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.pdb
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.config
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.manifest
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.application
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.pdb
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\BO.dll
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ENTITY.dll
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\DAL.dll
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\BO.pdb
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ENTITY.pdb
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\DAL.pdb
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csprojResolveAssemblyReference.cache
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AboutUs.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AddNewUser.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_Bill.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_AddClient.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CreditHistory.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CreditHistoryBalance.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CustomSearch.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_DayBook.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_EntryNewProduct.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_IncomeStatement.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageClient.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageProfile.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberMaintainance.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberSalaryAndAdvanceHistory.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_NotesAndReminder.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerExpenditure.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerIncome.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PartyLedger.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PrintBill.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ReturnToImporter_History.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SalaryHistory.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SearchProduct.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SoldProductHistory.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_TotalMember.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_UpdateProduct.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.LedgerForm.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Properties.Resources.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.UnpaidInvoiceForm.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csproj.GenerateResource.Cache
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe.manifest
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.application
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.pdb
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Splash.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.config
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.pdb
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.manifest
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.application
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.pdb
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\bin\Debug\BO.dll
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\bin\Debug\ENTITY.dll
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\bin\Debug\DAL.dll
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\bin\Debug\BO.pdb
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\bin\Debug\ENTITY.pdb
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\bin\Debug\DAL.pdb
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csprojResolveAssemblyReference.cache
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AboutUs.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_Bill.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_AddClient.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CreditHistoryBalance.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CustomSearch.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_DayBook.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_EntryNewProduct.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_IncomeStatement.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageClient.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageProfile.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberMaintainance.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberSalaryAndAdvanceHistory.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_NotesAndReminder.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerExpenditure.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerIncome.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PrintBill.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ReturnToImporter_History.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SalaryHistory.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SearchProduct.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SoldProductHistory.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_TotalMember.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_UpdateProduct.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Properties.Resources.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Splash.resources
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csproj.GenerateResource.Cache
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe.manifest
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.application
+H:\VisualStudio_Project\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_Exchanged_Client.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.config
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.manifest
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.application
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.pdb
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\AccountingManagement.vshost.exe
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\BO.dll
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ENTITY.dll
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\DAL.dll
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\BO.pdb
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\ENTITY.pdb
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\bin\Debug\DAL.pdb
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csprojResolveAssemblyReference.cache
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.AboutUs.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_Accounting.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_BankForm.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_BankStatement.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_Bill.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_AddClient.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CreateReport.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_Exchanged_Client.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CreditHistoryBalance.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_CustomSearch.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_DayBook.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_EntryNewProduct.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_GeneralJournalDisplay.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_IncomeStatement.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageClient.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ManageProfile.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberMaintainance.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_MemberSalaryAndAdvanceHistory.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_NotesAndReminder.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerExpenditure.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_OwnerIncome.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_PrintBill.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_ReturnToImporter_History.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SalaryHistory.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SearchProduct.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_SoldProductHistory.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_TotalMember.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Home_Admin_UpdateProduct.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Properties.Resources.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK_Computer_LTD.Splash.resources
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD UI.csproj.GenerateResource.Cache
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe.manifest
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.application
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe
+C:\Users\Riaz\Documents\Visual Studio 2013\Projects\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.pdb
+\\psf\Home\Documents\AppStick\Cozy66\ATK Computer LTD\bin\Debug\ATK Computer LTD.exe.config
+\\psf\Home\Documents\AppStick\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.exe
+\\psf\Home\Documents\AppStick\Cozy66\ATK Computer LTD\obj\Debug\ATK Computer LTD.pdb

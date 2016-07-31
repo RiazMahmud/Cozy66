@@ -1,0 +1,96 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\ATK Computer LTD.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\ATK Computer LTD.exe.manifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\ATK Computer LTD.application
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\ATK Computer LTD.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\ATK Computer LTD.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\CalendarClock.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\DigitalClock.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\MetroFramework.Design.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\MetroFramework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\Microsoft.PointOfService.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\CalendarClock.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\DigitalClock.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\bin\Release\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK Computer LTD UI.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.AboutUs.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.AddNewUser.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_Bill.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_DayBook.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_EntryNewProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_ManageClient.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_ManageProfile.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_MemberMaintainance.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_MemberSalaryAndAdvanceHistory.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_NotesAndReminder.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_OwnerExpenditure.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_OwnerIncome.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_PartyLedger.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_PrintBill.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_ReturnToImporter_History.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_SearchProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_SoldProductHistory.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_TotalMember.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_UpdateProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.LedgerForm.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK_Computer_LTD.UnpaidInvoiceForm.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK Computer LTD UI.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK Computer LTD.exe.manifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK Computer LTD.application
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK Computer LTD.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD\ATK Computer LTD\obj\Release\ATK Computer LTD.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\ATK Computer LTD.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK Computer LTD.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK Computer LTD.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\ATK Computer LTD.exe.manifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\ATK Computer LTD.application
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\ATK Computer LTD.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\ATK Computer LTD.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\CalendarClock.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\DigitalClock.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\MetroFramework.Design.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\MetroFramework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\Microsoft.PointOfService.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\CalendarClock.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\DigitalClock.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\bin\Release\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK Computer LTD UI.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.AboutUs.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.AddNewUser.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_Bill.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_DayBook.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_EntryNewProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_ManageClient.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_ManageProfile.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_MemberMaintainance.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_MemberSalaryAndAdvanceHistory.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_NotesAndReminder.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_OwnerExpenditure.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_OwnerIncome.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_PartyLedger.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_PrintBill.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_ReturnToImporter_History.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_SearchProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_SoldProductHistory.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_TotalMember.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Home_Admin_UpdateProduct.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.LedgerForm.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK_Computer_LTD.UnpaidInvoiceForm.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK Computer LTD UI.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK Computer LTD.exe.manifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\ATK Computer LTD - Final-v.1.0\ATK Computer LTD\obj\Release\ATK Computer LTD.application
